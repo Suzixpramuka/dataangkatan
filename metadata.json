@@ -1,0 +1,6 @@
+{
+  "name": "IF26 Member Verification System",
+  "description": "Sistem pendataan dan verifikasi anggota grup Informatika UNTIRTA Angkatan 2026.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

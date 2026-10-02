@@ -1,0 +1,5 @@
+id,nama,nim,kelas,program_studi,angkatan,active,created_at
+off_001,Mahasiswa Contoh A,3337260001,A26,Informatika,2026,true,2026-10-02T12:00:00.000Z
+off_002,Mahasiswa Contoh B,3337260002,B26,Informatika,2026,true,2026-10-02T12:00:00.000Z
+off_003,Mahasiswa Contoh C,3337260003,C26,Informatika,2026,true,2026-10-02T12:00:00.000Z
+off_004,Mahasiswa Contoh D,3337260004,D26,Informatika,2026,true,2026-10-02T12:00:00.000Z

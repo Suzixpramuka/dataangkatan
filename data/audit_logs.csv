@@ -1,0 +1,8 @@
+id,actor_id,action,target_id,timestamp,description
+audit_1790951068109_h3hiho,usr_super_admin_001,LOGIN_ADMIN,usr_super_admin_001,2026-10-02T14:24:28.109Z,Login admin (SUPER_ADMIN): Super Administrator IF26
+audit_1790950579927_or6he3,usr_super_admin_001,LOGIN_ADMIN,usr_super_admin_001,2026-10-02T14:16:19.927Z,Login admin (SUPER_ADMIN): Super Administrator IF26
+audit_1790946423024_h9c44rm,usr_1790946423011_mmx3yl,REGISTER_STUDENT,usr_1790946423011_mmx3yl,2026-10-02T13:07:03.024Z,Pendaftaran mahasiswa baru: Mahasiswa Contoh C (3337260003). Status: NEEDS_CONFIRMATION
+audit_1790946344741_1w7t6l,usr_super_admin_001,LOGIN_ADMIN,usr_super_admin_001,2026-10-02T13:05:44.741Z,Login admin (SUPER_ADMIN): Super Administrator IF26
+audit_1790946116811_ov5hcl,usr_1790946116802_o7r5m6,REGISTER_STUDENT,usr_1790946116802_o7r5m6,2026-10-02T13:01:56.811Z,Pendaftaran mahasiswa baru: Budi Contoh Pratama (3337260001). Status: NEEDS_CONFIRMATION
+audit_1790945377316_rxook,SYSTEM,SEED_OFFICIAL_STUDENTS,OFFICIAL_DATA,2026-10-02T12:49:37.316Z,Menambahkan data awal daftar mahasiswa resmi Informatika 2026.
+audit_1790945377307_5tn0l,SYSTEM,INIT_SUPER_ADMIN,usr_super_admin_001,2026-10-02T12:49:37.307Z,Super Admin akun diinisiasi otomatis dengan default password.
