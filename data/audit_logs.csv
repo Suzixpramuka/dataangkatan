@@ -1,4 +1,9 @@
 id,actor_id,action,target_id,timestamp,description
+audit_1790954791034_yek7o8,usr_super_admin_001,LOGIN_ADMIN,usr_super_admin_001,2026-10-02T15:26:31.034Z,Login admin (SUPER_ADMIN): Super Administrator IF26
+audit_1790954772508_iatcam,usr_1790954748718_5d3v0n,UPDATE_PROFILE,usr_1790954748718_5d3v0n,2026-10-02T15:26:12.508Z,Pembaruan profil oleh TEST (3337260000). Status: DUPLICATE_REVIEW. Submit ke-1
+audit_1790954748732_353gpf,usr_1790954748718_5d3v0n,REGISTER_STUDENT,usr_1790954748718_5d3v0n,2026-10-02T15:25:48.732Z,Pendaftaran mahasiswa baru: TEST (3337260000). Status: DUPLICATE_REVIEW
+audit_1790954680216_f2jy5,usr_super_admin_001,LOGIN_ADMIN,usr_super_admin_001,2026-10-02T15:24:40.216Z,Login admin (SUPER_ADMIN): Super Administrator IF26
+audit_1790953326282_1s1rna,usr_1790953326257_3e6jyc,REGISTER_STUDENT,usr_1790953326257_3e6jyc,2026-10-02T15:02:06.282Z,Pendaftaran mahasiswa baru: TEST (3337261311). Status: NEEDS_CONFIRMATION
 audit_1790951068109_h3hiho,usr_super_admin_001,LOGIN_ADMIN,usr_super_admin_001,2026-10-02T14:24:28.109Z,Login admin (SUPER_ADMIN): Super Administrator IF26
 audit_1790950579927_or6he3,usr_super_admin_001,LOGIN_ADMIN,usr_super_admin_001,2026-10-02T14:16:19.927Z,Login admin (SUPER_ADMIN): Super Administrator IF26
 audit_1790946423024_h9c44rm,usr_1790946423011_mmx3yl,REGISTER_STUDENT,usr_1790946423011_mmx3yl,2026-10-02T13:07:03.024Z,Pendaftaran mahasiswa baru: Mahasiswa Contoh C (3337260003). Status: NEEDS_CONFIRMATION
